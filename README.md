@@ -1,7 +1,10 @@
-[![MasterHead]([https://](https://waterengineeringdaily.com/wp-content/uploads/2022/04/waterengineeringdaily-logo2-e1650934257437.png))](https://waterengineeringdaily.com)
+[![MasterHead]([https://waterengineeringdaily.com/wp-content/uploads/2022/04/waterengineeringdaily-logo2-e1650934257437.png](https://))]
+
+(https://waterengineeringdaily.com)
 <h1 align="center">I'm Abhilash Vishwakarma</h1>
 <h3 align="center">Water Engineering Professional</h3>
-(img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/kC8UaG5O2Vfi38m7JJ/200w.webp?cid=ecf05e47rwxd0vxmjya3vvgpnki9k3bnkommce4kcof2t2z9&rid=200w.webp&ct=g")
+
+(img align="right" alt="Coding" width="400" src="")
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=something&label=Profile%20views&color=0e75b6&style=flat" alt="something" /> </p>
 
