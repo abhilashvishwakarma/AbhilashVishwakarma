@@ -3,10 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=something&label=Profile%20views&color=0e75b6&style=flat" alt="something" /> </p>
 
-
-
-<p align="left"> <a href="https://twitter.com/askabhilash" target="blank"><img src="https://img.shields.io/twitter/follow/askabhilash?logo=twitter&style=for-the-badge" alt="askabhilash" /></a> </p>
-
 - 🔭 I’m currently working on **Something**
 
 - 🌱 I’m currently learning **Something**
