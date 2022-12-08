@@ -1,16 +1,11 @@
-[![MasterHead]([https://waterengineeringdaily.com/wp-content/uploads/2022/04/waterengineeringdaily-logo2-e1650934257437.png](https://))]
-
-(https://waterengineeringdaily.com)
 <h1 align="center">I'm Abhilash Vishwakarma</h1>
 <h3 align="center">Water Engineering Professional</h3>
 
-(img align="right" alt="Coding" width="400" src="")
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=something&label=Profile%20views&color=0e75b6&style=flat" alt="something" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=something" alt="something" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/something" target="blank"><img src="https://img.shields.io/twitter/follow/something?logo=twitter&style=for-the-badge" alt="something" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/askabhilash" target="blank"><img src="https://img.shields.io/twitter/follow/askabhilash?logo=twitter&style=for-the-badge" alt="askabhilash" /></a> </p>
 
 - 🔭 I’m currently working on **Something**
 
