@@ -18,4 +18,5 @@ I am a self-taught programmer who has been working in the Water Infrastructure i
 The Mathematics and Statistics was the first class I took and it really got me interested in learning more about data science. These courses really helped me learn the fundamentals of data science and how to apply them. I'm doing projects for myself focussed on Data Analysis and Data Visualisation using Python. 
 
 ##
-![Logo](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/th5xamgrr6se0x5ro4g6.png)
+![Logo](https://www.netic.dk/wp-content/uploads/2018/11/Line-web-banner-for-artificial-intelligence-1.png)
+
