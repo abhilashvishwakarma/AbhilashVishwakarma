@@ -6,24 +6,16 @@
 <h1 align="center">I'm Abhilash Vishwakarma</h1>
 <h3 align="center">Water Engineering Professional</h3>
 
-<div id="badges" align="center">
-  <a href="www.linkedin.com/in/abhilashvishwakarma1">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-</div>
-
+<div align="center">
+  
 [![portfolio](https://img.shields.io/badge/my_webite-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://waterengineeringdaily.com/)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhilashvishwakarma1)
-
-
-## 🛠 Skills
-Water Engineering, Python, SQL, Data Analysis, Data Visualization, Machine Learning...
-
+  
+</div>
 
 ![Logo](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/th5xamgrr6se0x5ro4g6.png)
 
 
-![Logo]([https://dev-to-uploads.s3.amazonaws.com/uploads/articles/th5xamgrr6se0x5ro4g6.png](https://waterengineeringdaily.com/))
 
 
 
