@@ -4,7 +4,7 @@
 
 
 <h1 align="center">I'm Abhilash Vishwakarma</h1>
-<h3 align="center">Water Engineering Professional</h3>
+<h3 align="center">Water Engineering Professional & Data Science Enthusiast</h3>
 
 <div align="center">
   
