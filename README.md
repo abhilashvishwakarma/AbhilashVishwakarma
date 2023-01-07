@@ -22,6 +22,7 @@ The Mathematics and Statistics was the first class I took and it really got me i
   <img src="https://waterengineeringdaily.com/wp-content/uploads/2022/12/waterengineeringdaily-sitelogo@2x.png" width="500" height="300"/>
 </div>
 
+
 ##
 ![Logo](https://www.netic.dk/wp-content/uploads/2018/11/Line-web-banner-for-artificial-intelligence-1.png)
 
