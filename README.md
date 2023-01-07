@@ -8,9 +8,15 @@
 
 <div align="center">
   
-[![portfolio](https://img.shields.io/badge/my_webite-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://waterengineeringdaily.com/)
+
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhilashvishwakarma1)
-  
+[![portfolio](https://img.shields.io/badge/Portfolio-100000?style=for-the-badge&logo=github&logoColor=white)](https://waterengineeringdaily.com/)
+
+[![Academia](https://img.shields.io/badge/Academia-fff?style=for-the-badge&logo=academia&logoColor=black)](https://waterengineeringdaily.com/)
+[![Research Gate](https://img.shields.io/badge/Research_Gate-00CCBB.svg?&style=for-the-badge&logo=ResearchGate&logoColor=white)](https://waterengineeringdaily.com/)
+
+
+
 </div>
 
 I am a self-taught programmer who has been working in the Water Infrastructure industry for 5 years. I was always interested in programming, but never had any formal training. My love of learning and curiosity led me to find ways of teaching myself new skills on my own time. I loved learning about machine learning and I decided to take data science more seriously.
