@@ -9,7 +9,7 @@
 <div align="center">
   
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhilashvishwakarma1)
-[![portfolio](https://img.shields.io/badge/Portfolio-100000?style=for-the-badge&logo=github&logoColor=white)](https://www.abhilashvishwakama.github.io/)
+[![portfolio](https://img.shields.io/badge/Portfolio-100000?style=for-the-badge&logo=github&logoColor=white)](https://abhilashvishwakama.github.io/)
 [![Research Gate](https://img.shields.io/badge/Research_Gate-00CCBB.svg?&style=for-the-badge&logo=ResearchGate&logoColor=white)](https://www.researchgate.net/profile/Abhilash-Vishwakarma/)
 
 </div>
